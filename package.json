@@ -10,7 +10,7 @@
     "axios": "^0.21.1",
     "date-fns": "^2.20.3",
     "date-fns-tz": "^1.0.10",
-    "history": "^4.10.1",
+    "history": "^5.0.0",
     "immer": "^8.0.1",
     "polished": "^3.5.0",
     "prop-types": "^15.7.2",
